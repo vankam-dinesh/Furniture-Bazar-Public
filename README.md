@@ -6,7 +6,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-Database-orange.svg)](https://www.mysql.com/)
 
 A comprehensive e-commerce platform for furniture retail built with Django. This full-featured online store provides a seamless shopping experience with modern design and robust functionality.
-## 🖼️ Preview
+## 🖼️ Preview                                                                                                
 
 ![Furniture Bazar Main Screenshot](https://github.com/roniahamed/img/blob/master/furniture%20bazar%20main.png?raw=true)
                                                                                           
