@@ -11,7 +11,7 @@ A comprehensive e-commerce platform for furniture retail built with Django. This
 ![Furniture Bazar Main Screenshot](https://github.com/roniahamed/img/blob/master/furniture%20bazar%20main.png?raw=true)
                                                                                           
 *Screenshot of the Furniture Bazar homepage. Explore the live site below!*                                                                                                                                                              
-## 🌐 Live Demo
+## 🌐 Live Demo                            
                                                                                                                                           
 **[🔗 Visit Furniture Bazar](https://furniturebazar2.pythonanywhere.com/)**
                                                             
